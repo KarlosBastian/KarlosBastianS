@@ -95,11 +95,11 @@ journey
       Início da ADS: 5: Carlos
       Cursos técnicos + IA: 4: Carlos
     section Conquista
-      Lançamento do ClickVite: 4: Carlos
+      Buscar um trabalho na aréa de T.I.: 4: Carlos
       Implantação em projeto real: 3: Carlos
     section Futuro
       Desenvolvedor com visão estratégica: 5: Carlos
-      Mentor de iniciantes e inovador tech: 5: Carlos
+      Trabalhar com Desenvolvimento e tecnoligias: 5: Carlos
 ```
 
 ---
