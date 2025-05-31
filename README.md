@@ -10,9 +10,9 @@
 
 ## 🌌 Sobre mim
 
-Sou um profissional em **transição de carreira** com mais de 8 anos de experiência como **encarregado de loja em uma rede varejista ,Vendas de Bebidas...**.Passando pelos mais variados setores como aux. administrativo até esporte aventuras e controles. Hoje, mergulho com intensidade no mundo da **tecnologia**, estudando, desenvolvendo e sonhando com soluções que unem **inteligência artificial**, automação e impacto real.
+Sou um profissional em **transição de carreira** com mais de 8 anos de experiência como **encarregado de loja em uma rede varejista ,Vendas de Bebidas...**.Passando pelos mais variados setores como aux. administrativo até esporte aventuras e controles. Hoje, mergulho com intensidade no mundo da **tecnologia**, estudando, desenvolvendo e sonhando com soluções que unem **inteligência artificial**, automação e impacto real. 
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e explorador nato de novas formas de aprender e criar. Atualmente focado em:
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** sempre gostei muito de tecnologia ,desde pequeno abrindo coisas na oficina do Meu pai, Estudando de verdade a 3 meses . Atualmente focado em:
 
 - 📊 Lógica de programação e estrutura de algoritmos
 - 🛢️ Banco de dados com **MySQL**
@@ -37,7 +37,7 @@ Sou um profissional em **transição de carreira** com mais de 8 anos de experi�
 
 ## 🧪 Projeto em Destaque – ClickVite
 
-### 🎉 ClickVite – Convites Interativos com Toque de Futuro
+### 🎉 ClickVite – Convites Interativos com Toque de Futuro (logo estarei colocando aqui)
 
 > Aplicação para criação de convites visuais com toque artístico e interativo, permitindo personalização completa em imagens JPEG.
 
@@ -99,7 +99,7 @@ journey
       Implantação em projeto real: 3: Carlos
     section Futuro
       Desenvolvedor com visão estratégica: 5: Carlos
-      Trabalhar com Desenvolvimento e tecnoligias: 5: Carlos
+      Trabalhar c/ T.I. ,Programção: 5: Carlos
 ```
 
 ---
