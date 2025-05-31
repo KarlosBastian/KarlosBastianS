@@ -1,7 +1,7 @@
 
 <!-- HEADER -->
 <h1 align="center" style="color:#00fff7">Carlos Alberto de Freitas Bastians 🚀</h1>
-<p align="center"><strong>Transição Estratégica | Tecnologia Futurista | Liderança Visionária</strong></p>
+<p align="center"><strong> Estudante de T.I. |Fazer oque gosta   | Curioso</strong></p>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
 </p>
