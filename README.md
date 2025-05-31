@@ -72,7 +72,7 @@ Atualmente, exploro ativamente **inteligência artificial como ferramenta de apo
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![Linux](https://img.shields.io/badge/Linux-000000?logo=linux)
+
 
 ---
 
